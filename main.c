@@ -18,7 +18,7 @@
 
 
 
-///Copies the character c (an unsigned char) to the first n characters of the string pointed to, by the argument str.
+
 
 /************* Main Program Section ************/
 /**-------------------------------------------**/
